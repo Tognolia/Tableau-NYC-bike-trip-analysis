@@ -10,7 +10,7 @@ Now, we will create a visualization dashboard in Tableau.  We will accomplish th
 - Start and stop times
 - Visualize and create dashboard
 
-[The final Tableau story can be found here.]()
+[The final Tableau story can be found here.](https://public.tableau.com/app/profile/andrea.tognoli/viz/BiketripNYCanalysis/Feb2018)
 
 [The csv data can be found here.](https://www.citibikenyc.com/data-sharing-policy)
 
